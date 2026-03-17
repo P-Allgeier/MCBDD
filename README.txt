@@ -1,4 +1,4 @@
-usage: "Lua Fred.lua <prevalence_pct> [specificity_pct]"
+usage: "lua Fred.lua <prevalence_pct> [specificity_pct]"
 - omitting specificity will use 99, 99.9, 99.99 and 99.999
 - if you want to see the integer check, specify a value for specificity
 
