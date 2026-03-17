@@ -1,0 +1,11 @@
+if Fred is healthy (95%) there's a 0.5% chance it gives a false positive
+if Fred is sick (5%) there's a 0.5% chance it gives a false negative
+
+True positives TP: 
+0.995×0.05=0.04975
+False positives FP: 
+0.005×0.95=0.00475
+
+Fred gets a positive, so we have conditional probability
+
+TP/(TP + FP) = 0.913
